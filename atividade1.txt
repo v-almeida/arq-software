@@ -1,0 +1,19 @@
+Definição de Arquitetura de Software
+
+Explique, com suas próprias palavras, o que é arquitetura de software e por que ela
+é importante no desenvolvimento de sistemas.
+
+Resposta: Planejamento, projeto do software.
+Uma série de abstrações que comportam o projeto, diretrizes que informam como o programa de ser.
+facilita manutenção, a comunicação na empresa para um melhor entendimento e assertividade.
+
+Estilos de Arquitetura
+
+Compare os estilos de arquitetura Monolítica e Microservices. Quais são as
+principais vantagens e desvantagens de cada um?
+
+Resposta: monolítica, mais velocidade para desenvolvimento de software, algo mais pontual para uma empresa que aborde algo mais restrito, ou seja, é mais barato porém na medida que você deseja abordar outros departamentos acaba se tornando complicado trabalhar com as manutenções.
+microservices mais utilizado em um âmbito onde são empresas mais grandes, uma diversidade maior de serviços e rentável porém mais caro.
+
+
+
